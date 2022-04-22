@@ -10,9 +10,12 @@ Futuramente devera conter algumas pastas de coisas que ja estudei como:
   - Basico
   - Frameworks/Runtime
     - React
+      - Basico
       - Padroes de projeto
     - Vue
+      - Basico 
   - Nodejs
+    - Basico  
     - Padroes de projeto
 - PHP
   - Laravel
