@@ -35,3 +35,12 @@ A ideia desse repositorio é compartilhar links uteis ( de prefencia gratuitos )
 - [Flexbox](https://darekkay.com/flexbox-cheatsheet/)
 - [Grid](https://grid.malven.co/)
 - [GIT](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+### Resumos
+
+##### Estou atualmente participando do Desenvolve Boticario Full Stack 2022 e esse é o meu resumo atualizado ate agora dos cursos que foram passados pela alura
+
+- [Resumo no notion](https://pitch-artichoke-3ca.notion.site/Desenvolve-Grupo-Botic-rio-2022-955b1a87e6874a97a24c00d2174c41e9https:/)
+
+##### Estou tambem participando de um bootcamp da  Spread na DIO.me e esse é um pequeno resumo de algumas coisas que achei interessantes nas aulas ate agora
+- [Resumo no notion](https://pitch-artichoke-3ca.notion.site/DIO-45c0c33f1ba44300a2554096a3e8efd6)
