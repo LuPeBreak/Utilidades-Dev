@@ -16,3 +16,6 @@ Futuramente devera conter algumas pastas de coisas que ja estudei como:
     - Padroes de projeto
 - PHP
   - Laravel
+- Java
+- Python
+- C#
