@@ -10,6 +10,8 @@ A ideia desse repositorio é compartilhar links uteis ( de prefencia gratuitos )
 - [Dio.me](https://web.dio.me/browse)
 - [Rocketseat Discover](https://www.rocketseat.com.br/discoverhttps:/)
 - [CC50 - havard - Traduzido do CS50](https://materiais.estudarfora.org.br/cc50-harvard/)
+- [JornadaDoDev - Diversos cursos e palestras gratuitas de tecnologia ](https://jornadadodev.com.br/)
+- [TreinaDev - Formaçao Completa Gratuita](https://treinadev.com.br/)
 
 ### Sites para se desafiar
 
