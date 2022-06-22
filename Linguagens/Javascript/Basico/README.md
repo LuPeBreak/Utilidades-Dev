@@ -1,1 +1,1 @@
-Futuramente planejo adicionar pastas com conhecimentos basicos organizados e manter a pasta de exemplo com alguns exemplos de problemas basicos resolvidos de diversas maneiras.
+Alguns conhecimentos basicos de JS.
