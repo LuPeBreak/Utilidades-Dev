@@ -1,4 +1,4 @@
-# Coleçoes Javascript
+# Coleçoes chaveadas Javascript
 Ate o ES6 objetos e arrays eram os principais formatos de coleçoes da dados para armazenar qualquer tipo de dado, mas existiam algumas limitaçoes com esses formatos
 - Chaves de objetos so podem ser strings
 - Objetos nao mantem ordem dos elementos nele inseridos.
@@ -10,5 +10,6 @@ Map é uma coleçao de dados construida por chave e valor semelhante a um objeto
 Veja alguns exemplos no arquivo map.js
 
 ## Set
-Set é uma coleção de dados de valores unicos e os elementos podem ser de qualquer tipo. Tambem é uma coleção ordenada de dados.
+Set é uma coleção de dados de valores unicos e os elementos podem ser de qualquer tipo. Tambem é uma coleção ordenada de dados. O set é muito semelhante a um array mas com mais limitaçoes (nao possui alguns metodos) e tendo valores unicos.
 Voce pode ver alguns exemplos no arquivo set.js
+
